@@ -1,0 +1,14 @@
+YOU MUST HAVE RUBY INSTALLED ON THIS MACHINE
+https://www.ruby-lang.org/en/
+
+TO INSTALL
+
+gem install bundler
+bundle init
+bundle install 
+
+TO RUN
+
+ruby weather.rb
+
+
